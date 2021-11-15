@@ -1,0 +1,416 @@
+State,Year,Annual Rainfall,REGION(IN INDIA),TREE COVER,DEF
+Andaman & Nicobar Island,2000,2763.2,Island,680192,16897
+Andaman & Nicobar Island,2001,3080.9,Island,680192,16897
+Andaman & Nicobar Island,2002,2620.2,Island,680192,16897
+Andaman & Nicobar Island,2003,2355.9,Island,680192,16897
+Andaman & Nicobar Island,2004,2460.1,Island,680192,16897
+Andaman & Nicobar Island,2005,2954.7,Island,680192,16897
+Andaman & Nicobar Island,2006,2404.7,Island,680192,16897
+Andaman & Nicobar Island,2007,2748,Island,680192,16897
+Andaman & Nicobar Island,2008,3374.8,Island,680192,16897
+Andaman & Nicobar Island,2009,2538.6,Island,680192,16897
+Andaman & Nicobar Island,2010,3157.1,Island,680192,16897
+Andaman & Nicobar Island,2011,3828,Island,680192,16897
+Andaman & Nicobar Island,2012,3497.6,Island,680192,16897
+Andaman & Nicobar Island,2013,3757.8,Island,680192,16897
+Andaman & Nicobar Island,2014,2622.4,Island,680192,16897
+Andaman & Nicobar Island,2015,2904.6,Island,680192,16897
+Arunanchal Pradesh,2001,2036,East,984498,31181
+Arunanchal Pradesh,2002,2389.2,East,984498,31181
+Arunanchal Pradesh,2003,2451.8,East,984498,31181
+Arunanchal Pradesh,2004,2545.7,East,984498,31181
+Arunanchal Pradesh,2005,2335.5,East,984498,31181
+Arunanchal Pradesh,2006,2259.6,East,984498,31181
+Arunanchal Pradesh,2007,3020.7,East,984498,31181
+Arunanchal Pradesh,2008,2244.4,East,984498,31181
+Arunanchal Pradesh,2009,1749.9,East,984498,31181
+Arunanchal Pradesh,2010,2855.7,East,984498,31181
+Arunanchal Pradesh,2011,2193.7,East,984498,31181
+Arunanchal Pradesh,2012,3440.3,East,984498,31181
+Arunanchal Pradesh,2013,2042.9,East,984498,31181
+Arunanchal Pradesh,2014,2403.2,East,984498,31181
+Arunanchal Pradesh,2015,2767.5,East,984498,31181
+Assam,2000,2487,East,2436559,239252
+Assam,2001,2178.4,East,2436559,239252
+Assam,2002,2392.7,East,2436559,239252
+Assam,2003,2434.1,East,2436559,239252
+Assam,2004,2994.3,East,2436559,239252
+Assam,2005,2468.3,East,2436559,239252
+Assam,2006,1898.6,East,2436559,239252
+Assam,2007,2752.8,East,2436559,239252
+Assam,2008,2339.7,East,2436559,239252
+Assam,2009,2068.2,East,2436559,239252
+Assam,2010,2711.5,East,2436559,239252
+Assam,2011,1743.4,East,2436559,239252
+Assam,2012,2609.4,East,2436559,239252
+Assam,2013,1816.4,East,2436559,239252
+Assam,2014,2206.1,East,2436559,239252
+Assam,2015,2470.9,East,2436559,239252
+Tripura,2000,600,East,1479159,168171
+Tripura,2001,550,East,1479159,168171
+Tripura,2002,652,East,1479159,168171
+Tripura,2003,899,East,1479159,168171
+Tripura,2004,1000,East,1479159,168171
+Tripura,2005,654,East,1479159,168171
+Tripura,2006,899,East,1479159,168171
+Tripura,2007,900,East,1479159,168171
+Tripura,2008,800,East,1479159,168171
+Tripura,2009,789,East,1479159,168171
+Tripura,2010,600,East,1479159,168171
+Tripura,2011,899,East,1479159,168171
+Tripura,2012,988,East,1479159,168171
+Tripura,2013,978,East,1479159,168171
+Tripura,2014,689,East,1479159,168171
+Tripura,2015,789,East,1479159,168171
+West Bengal,2000,2908,North Eastern,2000000,40115
+West Bengal,2001,2612.6,North Eastern,2000000,40115
+West Bengal,2002,2547,North Eastern,2000000,40115
+West Bengal,2003,2723.3,North Eastern,2000000,40115
+West Bengal,2004,2714.7,North Eastern,2000000,40115
+West Bengal,2005,2807.7,North Eastern,2000000,40115
+West Bengal,2006,2262.1,North Eastern,2000000,40115
+West Bengal,2007,2638.9,North Eastern,2000000,40115
+West Bengal,2008,2689.9,North Eastern,2000000,40115
+West Bengal,2009,2324.6,North Eastern,2000000,40115
+West Bengal,2010,2612.3,North Eastern,2000000,40115
+West Bengal,2011,2418.7,North Eastern,2000000,40115
+West Bengal,2012,2632.2,North Eastern,2000000,40115
+West Bengal,2013,2406.1,North Eastern,2000000,40115
+West Bengal,2014,2322.6,North Eastern,2000000,40115
+West Bengal,2015,2518.6,North Eastern,2000000,40115
+Sikkim,2000,1572.1,North Eastern,327951,13000
+Sikkim,2001,1540.6,North Eastern,327951,13000
+Sikkim,2002,1613.3,North Eastern,327951,13000
+Sikkim,2003,1496.7,North Eastern,327951,13000
+Sikkim,2004,1569.4,North Eastern,327951,13000
+Sikkim,2005,1604.9,North Eastern,327951,13000
+Sikkim,2006,1660.5,North Eastern,327951,13000
+Sikkim,2007,1941.4,North Eastern,327951,13000
+Sikkim,2008,1555.2,North Eastern,327951,13000
+Sikkim,2009,1315,North Eastern,327951,13000
+Sikkim,2010,1064.8,North Eastern,327951,13000
+Sikkim,2011,1686.5,North Eastern,327951,13000
+Sikkim,2012,1268,North Eastern,327951,13000
+Sikkim,2013,1764.1,North Eastern,327951,13000
+Sikkim,2014,1261.4,North Eastern,327951,13000
+Sikkim,2015,1530.3,North Eastern,327951,13000
+Odisha,2000,1097.2,North Eastern,1865774,98174
+Odisha,2001,1672.5,North Eastern,1865774,98174
+Odisha,2002,1102.8,North Eastern,1865774,98174
+Odisha,2003,1648.2,North Eastern,1865774,98174
+Odisha,2004,1290.4,North Eastern,1865774,98174
+Odisha,2005,1503.4,North Eastern,1865774,98174
+Odisha,2006,1716.9,North Eastern,1865774,98174
+Odisha,2007,1633.8,North Eastern,1865774,98174
+Odisha,2008,1538.9,North Eastern,1865774,98174
+Odisha,2009,1330.3,North Eastern,1865774,98174
+Odisha,2010,1291.9,North Eastern,1865774,98174
+Odisha,2011,1346.2,North Eastern,1865774,98174
+Odisha,2012,1405.9,North Eastern,1865774,98174
+Odisha,2013,1632.4,North Eastern,1865774,98174
+Odisha,2014,1536.9,North Eastern,1865774,98174
+Odisha,2015,1210.1,North Eastern,1865774,98174
+Jharkhand,2000,1191.5,North Eastern,315905,5048
+Jharkhand,2001,1254.4,North Eastern,315905,5048
+Jharkhand,2002,1034.9,North Eastern,315905,5048
+Jharkhand,2003,1245,North Eastern,315905,5048
+Jharkhand,2004,1136.6,North Eastern,315905,5048
+Jharkhand,2005,960.4,North Eastern,315905,5048
+Jharkhand,2006,1459.5,North Eastern,315905,5048
+Jharkhand,2007,1437.3,North Eastern,315905,5048
+Jharkhand,2008,1325.3,North Eastern,315905,5048
+Jharkhand,2009,996.1,North Eastern,315905,5048
+Jharkhand,2010,697.1,North Eastern,315905,5048
+Jharkhand,2011,1374.7,North Eastern,315905,5048
+Jharkhand,2012,1065,North Eastern,315905,5048
+Jharkhand,2013,1253.6,North Eastern,315905,5048
+Jharkhand,2014,1156.6,North Eastern,315905,5048
+Jharkhand,2015,1081.8,North Eastern,315905,5048
+Bihar,2000,1207,North Eastern,205806,1194
+Bihar,2001,1247,North Eastern,205806,1194
+Bihar,2002,1105.8,North Eastern,205806,1194
+Bihar,2003,1353.9,North Eastern,205806,1194
+Bihar,2004,1147.8,North Eastern,205806,1194
+Bihar,2005,907.8,North Eastern,205806,1194
+Bihar,2006,1052.8,North Eastern,205806,1194
+Bihar,2007,1600.2,North Eastern,205806,1194
+Bihar,2008,1197.7,North Eastern,205806,1194
+Bihar,2009,889.3,North Eastern,205806,1194
+Bihar,2010,629.2,North Eastern,205806,1194
+Bihar,2011,1097.1,North Eastern,205806,1194
+Bihar,2012,1032.4,North Eastern,205806,1194
+Bihar,2013,1069.9,North Eastern,205806,1194
+Bihar,2014,1061,North Eastern,205806,1194
+Bihar,2015,872.7,North Eastern,205806,1194
+Uttar Pradesh,2000,946.8,North Eastern,205806,4184
+Uttar Pradesh,2001,973.8,North Eastern,205806,4184
+Uttar Pradesh,2002,689.1,North Eastern,205806,4184
+Uttar Pradesh,2003,1096.4,North Eastern,205806,4184
+Uttar Pradesh,2004,746.9,North Eastern,205806,4184
+Uttar Pradesh,2005,770.3,North Eastern,205806,4184
+Uttar Pradesh,2006,632.1,North Eastern,205806,4184
+Uttar Pradesh,2007,741.2,North Eastern,205806,4184
+Uttar Pradesh,2008,953.4,North Eastern,205806,4184
+Uttar Pradesh,2009,610.2,North Eastern,205806,4184
+Uttar Pradesh,2010,692.2,North Eastern,205806,4184
+Uttar Pradesh,2011,781.2,North Eastern,205806,4184
+Uttar Pradesh,2012,602.7,North Eastern,205806,4184
+Uttar Pradesh,2013,1041.4,North Eastern,205806,4184
+Uttar Pradesh,2014,701.2,North Eastern,205806,4184
+Uttar Pradesh,2015,603.3,North Eastern,205806,4184
+Uttarakhand,2000,1712.9,North ,1727728,14329
+Uttarakhand,2001,1544.4,North ,1727728,14329
+Uttarakhand,2002,1574.7,North ,1727728,14329
+Uttarakhand,2003,1734.3,North ,1727728,14329
+Uttarakhand,2004,1219.6,North ,1727728,14329
+Uttarakhand,2005,1348.2,North ,1727728,14329
+Uttarakhand,2006,1178.9,North ,1727728,14329
+Uttarakhand,2007,1924.3,North ,1727728,14329
+Uttarakhand,2008,1363.7,North ,1727728,14329
+Uttarakhand,2009,847.8,North ,1727728,14329
+Uttarakhand,2010,1424,North ,1727728,14329
+Uttarakhand,2011,1564.7,North ,1727728,14329
+Uttarakhand,2012,1223.9,North ,1727728,14329
+Uttarakhand,2013,1735.4,North ,1727728,14329
+Uttarakhand,2014,1287.4,North ,1727728,14329
+Uttarakhand,2015,1247.6,North ,1727728,14329
+NCT of Delhi,2000,384.4,North,40115,391
+NCT of Delhi,2001,485.5,North,40115,391
+NCT of Delhi,2002,357.2,North,40115,391
+NCT of Delhi,2003,597.6,North,40115,391
+NCT of Delhi,2004,487.3,North,40115,391
+NCT of Delhi,2005,519.5,North,40115,391
+NCT of Delhi,2006,330.9,North,40115,391
+NCT of Delhi,2007,446.6,North,40115,391
+NCT of Delhi,2008,710.4,North,40115,391
+NCT of Delhi,2009,395.4,North,40115,391
+NCT of Delhi,2010,640.5,North,40115,391
+NCT of Delhi,2011,512,North,40115,391
+NCT of Delhi,2012,391.4,North,40115,391
+NCT of Delhi,2013,461.2,North,40115,391
+NCT of Delhi,2014,305.5,North,40115,391
+NCT of Delhi,2015,435.3,North,40115,391
+Punjab,2000,405.3,North,69341,1240
+Punjab,2001,441,North,69341,1240
+Punjab,2002,274.7,North,69341,1240
+Punjab,2003,424.6,North,69341,1240
+Punjab,2004,351.7,North,69341,1240
+Punjab,2005,552,North,69341,1240
+Punjab,2006,647.7,North,69341,1240
+Punjab,2007,594.8,North,69341,1240
+Punjab,2008,717.1,North,69341,1240
+Punjab,2009,361.2,North,69341,1240
+Punjab,2010,451.5,North,69341,1240
+Punjab,2011,705.2,North,69341,1240
+Punjab,2012,493.6,North,69341,1240
+Punjab,2013,586.6,North,69341,1240
+Punjab,2014,382.7,North,69341,1240
+Punjab,2015,510.8,North,69341,1240
+Himachal Pradesh,2000,1068.4,North,1148261,4470
+Himachal Pradesh,2001,991.8,North,1148261,4470
+Himachal Pradesh,2002,990.4,North,1148261,4470
+Himachal Pradesh,2003,1034.5,North,1148261,4470
+Himachal Pradesh,2004,878.5,North,1148261,4470
+Himachal Pradesh,2005,1248.5,North,1148261,4470
+Himachal Pradesh,2006,1218.4,North,1148261,4470
+Himachal Pradesh,2007,1034.5,North,1148261,4470
+Himachal Pradesh,2008,1114.2,North,1148261,4470
+Himachal Pradesh,2009,956.5,North,1148261,4470
+Himachal Pradesh,2010,1259.4,North,1148261,4470
+Himachal Pradesh,2011,1108.3,North,1148261,4470
+Himachal Pradesh,2012,951.6,North,1148261,4470
+Himachal Pradesh,2013,1211.9,North,1148261,4470
+Himachal Pradesh,2014,1008.7,North,1148261,4470
+Himachal Pradesh,2015,1210.5,North,1148261,4470
+Jammu & Kashmir,2000,984.6,North,873136,3949
+Jammu & Kashmir,2001,952.7,North,873136,3949
+Jammu & Kashmir,2002,903.5,North,873136,3949
+Jammu & Kashmir,2003,1311.1,North,873136,3949
+Jammu & Kashmir,2004,944.9,North,873136,3949
+Jammu & Kashmir,2005,1692.7,North,873136,3949
+Jammu & Kashmir,2006,1519.8,North,873136,3949
+Jammu & Kashmir,2007,1023.5,North,873136,3949
+Jammu & Kashmir,2008,1224.5,North,873136,3949
+Jammu & Kashmir,2009,NA,North,873136,3949
+Jammu & Kashmir,2010,997.9,North,873136,3949
+Jammu & Kashmir,2011,887.6,North,873136,3949
+Jammu & Kashmir,2012,1034.7,North,873136,3949
+Jammu & Kashmir,2013,859.3,North,873136,3949
+Jammu & Kashmir,2014,1093.4,North,873136,3949
+Jammu & Kashmir,2015,1572.8,North,873136,3949
+Rajasthan,2000,235.3,West,4084,237
+Rajasthan,2001,285.3,West,4084,237
+Rajasthan,2002,92.4,West,4084,237
+Rajasthan,2003,368.1,West,4084,237
+Rajasthan,2004,196.7,West,4084,237
+Rajasthan,2005,260.8,West,4084,237
+Rajasthan,2006,361.3,West,4084,237
+Rajasthan,2007,310.8,West,4084,237
+Rajasthan,2008,324.1,West,4084,237
+Rajasthan,2009,160.4,West,4084,237
+Rajasthan,2010,473.2,West,4084,237
+Rajasthan,2011,418.7,West,4084,237
+Rajasthan,2012,327.3,West,4084,237
+Rajasthan,2013,389.4,West,4084,237
+Rajasthan,2014,302.4,West,4084,237
+Rajasthan,2015,458.4,West,4084,237
+Madhya Pradesh,2000,770,Central,865061,8423
+Madhya Pradesh,2001,787,Central,865061,8423
+Madhya Pradesh,2002,684.1,Central,865061,8423
+Madhya Pradesh,2003,946.4,Central,865061,8423
+Madhya Pradesh,2004,848.1,Central,865061,8423
+Madhya Pradesh,2005,752.2,Central,865061,8423
+Madhya Pradesh,2006,1169.2,Central,865061,8423
+Madhya Pradesh,2007,806.5,Central,865061,8423
+Madhya Pradesh,2008,791.1,Central,865061,8423
+Madhya Pradesh,2009,877,Central,865061,8423
+Madhya Pradesh,2010,776.3,Central,865061,8423
+Madhya Pradesh,2011,1063.9,Central,865061,8423
+Madhya Pradesh,2012,1035.2,Central,865061,8423
+Madhya Pradesh,2013,1396.3,Central,865061,8423
+Madhya Pradesh,2014,864.9,Central,865061,8423
+Madhya Pradesh,2015,1042.3,Central,865061,8423
+Gujarat,2000,550.6,West,6996,89
+Gujarat,2001,849,West,6996,89
+Gujarat,2002,637.2,West,6996,89
+Gujarat,2003,1160.3,West,6996,89
+Gujarat,2004,1005.8,West,6996,89
+Gujarat,2005,1316.4,West,6996,89
+Gujarat,2006,1478,West,6996,89
+Gujarat,2007,1178.9,West,6996,89
+Gujarat,2008,911.1,West,6996,89
+Gujarat,2009,641.6,West,6996,89
+Gujarat,2010,1088.7,West,6996,89
+Gujarat,2011,890.5,West,6996,89
+Gujarat,2012,714,West,6996,89
+Gujarat,2013,1118.6,West,6996,89
+Gujarat,2014,705.7,West,6996,89
+Gujarat,2015,622.9,West,6996,89
+Goa,2000,3133.2,South western,116708,689
+Goa,2001,2395.4,South western,116708,689
+Goa,2002,2537.2,South western,116708,689
+Goa,2003,2842.3,South western,116708,689
+Goa,2004,2985.9,South western,116708,689
+Goa,2005,3615.7,South western,116708,689
+Goa,2006,3482.2,South western,116708,689
+Goa,2007,3468.5,South western,116708,689
+Goa,2008,3053.1,South western,116708,689
+Goa,2009,2716.6,South western,116708,689
+Goa,2010,3778.1,South western,116708,689
+Goa,2011,3825.2,South western,116708,689
+Goa,2012,3018.4,South western,116708,689
+Goa,2013,3524,South western,116708,689
+Goa,2014,2757.5,South western,116708,689
+Goa,2015,2082,South western,116708,689
+Chhattisgarh,2000,906.3,Central,2265978,42839
+Chhattisgarh,2001,1600.1,Central,2265978,42839
+Chhattisgarh,2002,990.2,Central,2265978,42839
+Chhattisgarh,2003,1694.3,Central,2265978,42839
+Chhattisgarh,2004,1144.5,Central,2265978,42839
+Chhattisgarh,2005,1287.2,Central,2265978,42839
+Chhattisgarh,2006,1317.7,Central,2265978,42839
+Chhattisgarh,2007,1281.2,Central,2265978,42839
+Chhattisgarh,2008,1108.5,Central,2265978,42839
+Chhattisgarh,2009,956.6,Central,2265978,42839
+Chhattisgarh,2010,1306.6,Central,2265978,42839
+Chhattisgarh,2011,1302.7,Central,2265978,42839
+Chhattisgarh,2012,1377.4,Central,2265978,42839
+Chhattisgarh,2013,1420,Central,2265978,42839
+Chhattisgarh,2014,1278.7,Central,2265978,42839
+Chhattisgarh,2015,1117.6,Central,2265978,42839
+Andhra Pradesh,2000,992.3,Central,984498,31181
+Andhra Pradesh,2001,1009.3,Central,984498,31181
+Andhra Pradesh,2002,703.2,Central,984498,31181
+Andhra Pradesh,2003,1096.8,Central,984498,31181
+Andhra Pradesh,2004,873.6,Central,984498,31181
+Andhra Pradesh,2005,1221.6,Central,984498,31181
+Andhra Pradesh,2006,1159.6,Central,984498,31181
+Andhra Pradesh,2007,1099.2,Central,984498,31181
+Andhra Pradesh,2008,1107.5,Central,984498,31181
+Andhra Pradesh,2009,790.5,Central,984498,31181
+Andhra Pradesh,2010,1712.4,Central,984498,31181
+Andhra Pradesh,2011,861.9,Central,984498,31181
+Andhra Pradesh,2012,1318.4,Central,984498,31181
+Andhra Pradesh,2013,1120.5,Central,984498,31181
+Andhra Pradesh,2014,874.9,Central,984498,31181
+Andhra Pradesh,2015,1010.9,Central,984498,31181
+Telangana,2000,1078,Central,486132,40208
+Telangana,2001,922.3,Central,486132,40208
+Telangana,2002,765.3,Central,486132,40208
+Telangana,2003,963.2,Central,486132,40208
+Telangana,2004,667,Central,486132,40208
+Telangana,2005,1163.1,Central,486132,40208
+Telangana,2006,1053,Central,486132,40208
+Telangana,2007,843.3,Central,486132,40208
+Telangana,2008,1035.3,Central,486132,40208
+Telangana,2009,666.3,Central,486132,40208
+Telangana,2010,1276.4,Central,486132,40208
+Telangana,2011,753.1,Central,486132,40208
+Telangana,2012,1008.6,Central,486132,40208
+Telangana,2013,1348.7,Central,486132,40208
+Telangana,2014,746.4,Central,486132,40208
+Telangana,2015,857.3,Central,486132,40208
+Tamil Nadu,2000,972,South,990734,22178
+Tamil Nadu,2001,483.4,South,990734,22178
+Tamil Nadu,2002,318,South,990734,22178
+Tamil Nadu,2003,348.5,South,990734,22178
+Tamil Nadu,2004,1037.6,South,990734,22178
+Tamil Nadu,2005,1365.3,South,990734,22178
+Tamil Nadu,2006,927.9,South,990734,22178
+Tamil Nadu,2007,1067.2,South,990734,22178
+Tamil Nadu,2008,1203.4,South,990734,22178
+Tamil Nadu,2009,928.5,South,990734,22178
+Tamil Nadu,2010,1095.2,South,990734,22178
+Tamil Nadu,2011,926.5,South,990734,22178
+Tamil Nadu,2012,636.1,South,990734,22178
+Tamil Nadu,2013,741.9,South,990734,22178
+Tamil Nadu,2014,913,South,990734,22178
+Tamil Nadu,2015,1204.6,South,990734,22178
+Karnataka,2000,3351.3,South,1864587,38587
+Karnataka,2001,3111.6,South,1864587,38587
+Karnataka,2002,2793.1,South,1864587,38587
+Karnataka,2003,3071.9,South,1864587,38587
+Karnataka,2004,3070,South,1864587,38587
+Karnataka,2005,3470.9,South,1864587,38587
+Karnataka,2006,3837.3,South,1864587,38587
+Karnataka,2007,3860.2,South,1864587,38587
+Karnataka,2008,3206.4,South,1864587,38587
+Karnataka,2009,3862,South,1864587,38587
+Karnataka,2010,3686.8,South,1864587,38587
+Karnataka,2011,3908.6,South,1864587,38587
+Karnataka,2012,3900,South,1864587,38587
+Karnataka,2013,4229.4,South,1864587,38587
+Karnataka,2014,3684.4,South,1864587,38587
+Karnataka,2015,3106,South,1864587,38587
+Kerala,2000,2412.6,South,2229509,57738
+Kerala,2001,2931.1,South,2229509,57738
+Kerala,2002,2507.4,South,2229509,57738
+Kerala,2003,2394.9,South,2229509,57738
+Kerala,2004,2886.1,South,2229509,57738
+Kerala,2005,3031.1,South,2229509,57738
+Kerala,2006,3420.6,South,2229509,57738
+Kerala,2007,3489.6,South,2229509,57738
+Kerala,2008,2524.5,South,2229509,57738
+Kerala,2009,2810.6,South,2229509,57738
+Kerala,2010,3131.8,South,2229509,57738
+Kerala,2011,3035.1,South,2229509,57738
+Kerala,2012,2151.1,South,2229509,57738
+Kerala,2013,3255.4,South,2229509,57738
+Kerala,2014,3046.4,South,2229509,57738
+Kerala,2015,2600.6,South,2229509,57738
+Lakshadweep,2000,1372.1,Island,5,1
+Lakshadweep,2001,1380.6,Island,5,1
+Lakshadweep,2002,1033.5,Island,5,1
+Lakshadweep,2003,1532.9,Island,5,1
+Lakshadweep,2004,1553.2,Island,5,1
+Lakshadweep,2005,1575.4,Island,5,1
+Lakshadweep,2006,1598.6,Island,5,1
+Lakshadweep,2007,2361.6,Island,5,1
+Lakshadweep,2008,1726.8,Island,5,1
+Lakshadweep,2009,1570.1,Island,5,1
+Lakshadweep,2010,1725.2,Island,5,1
+Lakshadweep,2011,1533.7,Island,5,1
+Lakshadweep,2012,1405.5,Island,5,1
+Lakshadweep,2013,1426.3,Island,5,1
+Lakshadweep,2014,1395,Island,5,1
+Lakshadweep,2015,1642.9,Island,5,1
